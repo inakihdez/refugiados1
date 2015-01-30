@@ -133,7 +133,6 @@ a:focus {
 
 .about {
     width: 100%;
-    height: auto;
     padding: 100px 0;
     margin-top: 100px;
     height: 800px;
@@ -182,6 +181,11 @@ a:focus {
     .intro .intro-body .intro-text {
         font-size: 25px;
     }
+    .about {
+    width: 100%;
+    height: 800px;
+    padding: 100px 0;
+    margin-top: 100px;
 }
 
 .btn-circle {
