@@ -9,7 +9,6 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #FFF;
 }
 
 html {
@@ -193,6 +192,7 @@ a:focus {
     height: 800px;
     padding: 500px 0;
     margin-top: 500px;
+    color: #000;
 }
 
 .btn-circle {
@@ -271,7 +271,6 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
-    background-color: #FFF;
 }
 
 .download-section {
