@@ -89,7 +89,8 @@ a:focus {
     outline: 0;
 }
 
-.contact {
+
+#contact {
   background-color: #306d9f;
   color: #ffffff;
 }
