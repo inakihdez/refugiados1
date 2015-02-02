@@ -143,6 +143,17 @@ a:focus {
 
 }
 
+.contact2 {
+    width: 100%;
+    padding: 1000px 0;
+    margin-top: 1000px;
+    height: 1800px;
+    position: relative;
+    background-color: #fff;
+    color: #000;
+
+}
+
 /* padded section */
 .pad-section {
   padding: 50px 0;
