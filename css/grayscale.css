@@ -145,12 +145,14 @@ a:focus {
 
 .contact2 {
     width: 100%;
-    padding: 1000px 0;
-    margin-top: 1000px;
-    height: 1800px;
-    position: relative;
-    background-color: #fff;
-    color: #000;
+    padding: 50px 0;
+    color: #fff;
+    background: url(https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10606342_10154652117820161_3571257566100309874_n.jpg?oh=86c07e9c56aa90b88a887cbd4a4d40a3&oe=55551AEE) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 
 }
 
