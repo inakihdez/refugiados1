@@ -89,6 +89,10 @@ a:focus {
     outline: 0;
 }
 
+.contact {
+    background-color: #000;
+}
+
 .navbar-custom a {
     color: #fff;
 }
