@@ -164,6 +164,18 @@ a:focus {
   background-size: cover;
 }
 
+#information2 {
+  background: url(http://upload.wikimedia.org/wikipedia/commons/7/7b/Destruction_in_Homs_(4).jpg) no-repeat center center fixed; 
+  display: table;
+  height: 500px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #information .panel {
   opacity: 0.85;
 }
