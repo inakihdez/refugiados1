@@ -151,22 +151,6 @@ a:focus {
   width: 100%;
 }
 
-#services {
-  background-color: #306d9f;
-  color: #ffffff;
-}
-
-#services .glyphicon {
-  border: 2px solid #FFFFFF;
-  border-radius: 50%;
-  display: inline-block;
-  font-size: 60px;
-  height: 140px;
-  line-height: 140px;
-  text-align: center;
-  vertical-align: middle;
-  width: 140px;
-}
 
 #information {
   background: url(http://upload.wikimedia.org/wikipedia/commons/4/47/Gran_ca%C3%B1on_del_colorado.jpg) no-repeat center center fixed; 
