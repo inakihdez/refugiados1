@@ -171,7 +171,7 @@ a:focus {
 #information {
   background: url(http://upload.wikimedia.org/wikipedia/commons/4/47/Gran_ca%C3%B1on_del_colorado.jpg) no-repeat center center fixed; 
   display: table;
-  height: 800px;
+  height: 500px;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
