@@ -147,6 +147,7 @@ a:focus {
 #cierre {
     width: 100%;
     padding: 50px 0;
+    height: 500px;
     color: #fff;
     background: url(https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10606342_10154652117820161_3571257566100309874_n.jpg?oh=86c07e9c56aa90b88a887cbd4a4d40a3&oe=55551AEE) no-repeat center center scroll;
     -webkit-background-size: cover;
