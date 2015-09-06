@@ -131,6 +131,12 @@ a:focus {
     }
 }
 
+.espana {
+    width: 25%;
+    height: 55px;
+    background-color: #2E2E2E; 
+}
+
 .intro {
     display: table;
     width: 100%;
