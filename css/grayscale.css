@@ -200,6 +200,30 @@ a:focus {
     background-color: #2E2E2E; 
 }
 
+.alemania {
+    width: 25%;
+    height: 987px;
+    background-color: #2E2E2E; 
+}
+
+.turquia1 {
+    width: 25%;
+    height: 6292px;
+    background-color: #2E2E2E; 
+}
+
+.turquia2 {
+    width: 25%;
+    height: 4847px;
+    background-color: #2E2E2E; 
+}
+
+.turquia3 {
+    width: 25%;
+    height: 8250px;
+    background-color: #2E2E2E; 
+}
+
 .intro {
     display: table;
     width: 100%;
